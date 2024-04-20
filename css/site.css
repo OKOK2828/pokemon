@@ -1,0 +1,28 @@
+/* Noel Glamann
+Nov. 06, 2020 */
+
+body {
+	font-family: Arial;
+}
+
+nav {
+	background: blue;
+}
+
+nav a {
+	color:yellow;
+	text-decoration: none;
+}
+
+nav a:hover {
+	color: blue;
+	background:yellow;
+}
+
+.logo {
+	display: block;
+	margin: auto;
+	text-align: center;
+	width: 80%;
+}
+	

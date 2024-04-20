@@ -1,0 +1,13 @@
+/* Noel Glamann
+Nov. 06, 2020 */
+
+body {
+	background: #D4C8FF;
+	color: #420B3A;
+}
+
+.blocked {
+	margin-left: 30px;
+	margin-right: 30px;
+	text-align: center;
+}
